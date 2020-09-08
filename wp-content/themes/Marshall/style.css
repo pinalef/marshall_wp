@@ -1,0 +1,422 @@
+/*
+Theme Name: Marshall Speaker Project
+Theme URI: www.marshallspeaker.com
+Description: Mini Sitio web dedicado a la promoción de parlante modelo Woburn marca Marshall. 
+Author: Pamela Inalef
+Version: 1.0
+*/
+
+@font-face {
+  font-family: 'marshallheadphones-icons';
+  src: url("css/marshallheadphones-icons.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; 
+}
+
+  [class^="icon-"]::before,
+  [class*=" icon-"]::before {
+  font-family: "marshallheadphones-icons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+   line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+  .icon-35-coil-cord::before {
+    content: "a"; }
+  
+  .icon-35-mm-input::before {
+    content: "b"; }
+  
+  .icon-app-generic-black::before {
+    content: "d"; }
+  
+  .icon-arrow-down-small::before {
+    content: "h"; }
+  
+  .icon-arrow-left-small::before {
+    content: "i"; }
+  
+  .icon-arrow-right-small::before {
+    content: "j"; }
+  
+  .icon-arrow-up-big::before {
+    content: "k"; }
+  
+  .icon-arrow-up-down::before {
+    content: "l"; }
+  
+  .icon-arrow-up-left::before {
+    content: "m"; }
+  
+  .icon-arrow-up-right::before {
+    content: "n"; }
+  
+  .icon-arrow-up-small::before {
+    content: "o"; }
+  
+  .icon-box-closed::before {
+    content: "p"; }
+  
+  .icon-box-open::before {
+    content: "q"; }
+  
+  .icon-cross-big::before {
+    content: "u"; }
+  
+  .icon-delivery::before {
+    content: "v"; }
+  
+  .icon-exchange-returns::before {
+    content: "w"; }
+  
+  .icon-filled-arrow-down::before {
+    content: "x"; }
+  
+  .icon-filled-arrow-left::before {
+    content: "y"; }
+  
+  .icon-filled-arrow-right::before {
+    content: "z"; }
+  
+  .icon-filled-arrow-up::before {
+    content: "A"; }
+  
+  .icon-headphones-control-knob::before {
+    content: "B"; }
+  
+  .icon-headphones-control-knob-angle::before {
+    content: "C"; }
+  
+  .icon-headphones-outline::before {
+    content: "D"; }
+  
+  .icon-hedphones-filled::before {
+    content: "E"; }
+  
+  .icon-marshall::before {
+    content: "F"; }
+  
+  .icon-menu-cart::before {
+    content: "H"; }
+  
+  .icon-menu-hamburger::before {
+    content: "J"; }
+  
+  .icon-menu-help::before {
+    content: "K"; }
+  
+  .icon-menu-search::before {
+    content: "L"; }
+  
+  .icon-noise-cacelling::before {
+    content: "M"; }
+  
+  .icon-payment::before {
+    content: "N"; }
+  
+  .icon-pdf-black::before {
+    content: "O"; }
+  
+  .icon-pdf-white::before {
+    content: "P"; }
+  
+  .icon-play-button-desktop::before {
+    content: "Q"; }
+  
+  .icon-play-button-mobile::before {
+    content: "R"; }
+  
+  .icon-portable-suitcase::before {
+    content: "S"; }
+  
+  .icon-power-cord::before {
+    content: "T"; }
+  
+  .icon-simple-minus::before {
+    content: "U"; }
+  
+  .icon-simple-plus::before {
+    content: "V"; }
+  
+  .icon-slideshow-dots::before {
+    content: "W"; }
+  
+  .icon-slideshow-dots-infinite::before {
+    content: "X"; }
+  
+  .icon-speaker-acton::before {
+    content: "Y"; }
+  
+  .icon-speaker-outline::before {
+    content: "Z"; }
+  
+  .icon-speaker-stanmore::before {
+    content: "0"; }
+  
+  .icon-speaker-volume-knob::before {
+    content: "1"; }
+  
+  .icon-speaker-volume-know-multi-room::before {
+    content: "2"; }
+  
+  .icon-speaker-woburn::before {
+    content: "3"; }
+  
+  .icon-specs-headphones-box-open::before {
+    content: "4"; }
+  
+  .icon-specs-headphones-control-knob::before {
+    content: "5"; }
+  
+  .icon-specs-headphones-outline::before {
+    content: "6"; }
+  
+  .icon-specs-headphones-playtime::before {
+    content: "7"; }
+  
+  .icon-specs-speaker-app::before {
+    content: "8"; }
+  
+  .icon-specs-speaker-audio-specs::before {
+    content: "9"; }
+  
+  .icon-specs-speaker-box-open::before {
+    content: "!"; }
+  
+  .icon-specs-speaker-drivers::before {
+    content: "\""; }
+  
+  .icon-specs-speaker-physical-unit::before {
+    content: "#"; }
+  
+  .icon-specs-speaker-playtime::before {
+    content: "$"; }
+  
+  .icon-specs-speaker-power::before {
+    content: "%"; }
+  
+  .icon-specs-speaker-volume-knob::before {
+    content: "&"; }
+  
+  .icon-star-filled::before {
+    content: ")"; }
+  
+  .icon-star-outline::before {
+    content: "*"; }
+  
+  .icon-tickbox-big::before {
+    content: "+"; }
+  
+  .icon-tickbox-filled-big::before {
+    content: ","; }
+  
+  .icon-tickbox-filled-small::before {
+    content: "-"; }
+  
+  .icon-tickbox-small::before {
+    content: "."; }
+  
+  .icon-warranty::before {
+    content: "/"; }
+  
+  .icon-wi-fi-with-text::before {
+    content: ":"; }
+  
+  .icon-wifi::before {
+    content: ";"; }
+  
+  .icon-wifi-logo::before {
+    content: "<"; }
+  
+  .icon-app-generic-white::before {
+    content: "c"; }
+  
+  .icon-bin::before {
+    content: "e"; }
+  
+  .icon-checkmark::before {
+    content: "f"; }
+  
+  .icon-cross::before {
+    content: "g"; }
+  
+  .icon-plus-cross::before {
+    content: "="; }
+  
+  .icon-circle-cross::before {
+    content: "r"; }
+  
+  .icon-circle-minus::before {
+    content: "s"; }
+  
+  .icon-circle-plus::before {
+    content: "t"; }
+  
+  .icon-square-minus::before {
+    content: "'"; }
+  
+  .icon-square-plus::before {
+    content: "("; }
+  
+  .icon-menu-cart-bubble::before {
+    content: "G"; }
+  
+  .icon-battery::before {
+    content: "I"; }
+  
+  .icon-controls-and-connectivity::before {
+    content: ">"; }
+  
+  .icon-headphones-audio-specifications::before {
+    content: "?"; }
+  
+  .icon-headphones-physical-unit::before {
+    content: "@"; }
+  
+  .icon-included-in-the-box::before {
+    content: "["; }
+  
+  .icon-power::before {
+    content: "]"; }
+  
+  .icon-required-apps::before {
+    content: "^"; }
+  
+  .icon-speakers-audio-specifications::before {
+    content: "_"; }
+  
+  .icon-speakers-physical-unit::before {
+    content: "`"; }
+  
+  .icon-tech-specs-physical-unit-headphones::before {
+    content: "{"; }
+  
+  .icon-instagram::before {
+    content: "|"; }
+  
+  .icon-spotify::before {
+    content: "}"; }
+  
+  .icon-twitter::before {
+    content: "~"; }
+  
+  .icon-facebook::before {
+    content: "\\"; }
+  
+  .icon-pinterest::before {
+    content: "\E000"; }
+
+body {
+    font-family:  "Helvetica Neue", Arial, sans-serif;
+}
+
+.content{
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  color: #2A6496;
+  text-decoration: none;
+}
+
+.hr-light {
+  border-top: 3px solid #fff;
+  width: 80px;
+}
+.banner{
+  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bg_index{
+    background-image: url(images/marshall-stanmore-multi-room-hero-Desktop@1\,41x.jpg);
+    height: 50vw;
+  }
+
+#bg_somos{
+    background-image: url(images/0b4de83ff6a1db19032ce211629c93fd.jpg) ;
+    width: 100%;
+    height: 32em;
+}
+
+#bg_contact{
+    background-image: url(images/Marshall-Mid-Gear-Patrol-Lead-Full-e1590960836247-1536x641.jpg) ;
+    width: 100%;
+    height: 32em;
+}
+
+#product{
+    background-color: #ababab;
+    background-image: repeating-radial-gradient(ellipse farthest-corner at center bottom, lightgray 0%, #828282 100%);
+}
+
+.nav-link{
+  font-weight: 700;
+}
+
+.bg_black{
+    background-color: #222124;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+}
+iframe{
+    width: 1024px;
+    height: 768px;
+}
+
+/* stroke */
+nav.stroke ul li a,
+nav.fill ul li a {
+  position: relative;
+}
+nav.stroke ul li a:after,
+nav.fill ul li a:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.';
+  color: transparent;
+  background: #fcc200;
+  height: 2px;
+}
+nav.stroke ul li a:hover:after {
+  width: 100%;
+}
+
+nav.fill ul li a {
+  transition: all 2s;
+}
+
+nav.fill ul li a:after {
+  text-align: left;
+  content: '.';
+  margin: 0;
+  opacity: 0;
+}
+nav.fill ul li a:hover {
+  color: #fcc200;
+  z-index: 1;
+}
+nav.fill ul li a:hover:after {
+  z-index: -10;
+  animation: fill 1s forwards;
+  -webkit-animation: fill 1s forwards;
+  -moz-animation: fill 1s forwards;
+  opacity: 1;
+}

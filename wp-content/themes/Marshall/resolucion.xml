@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="http://192.168.60.21/pae-bpm-web/rtf/PlantillaResolucion.xsl"?><ns2:Documento xmlns:ns2="http://www.contraloria.cl/2005/05/CGRDoc" xmlns:ext="http://www.suseso.cl/CGRDoc" xmlns:ns3="http://www.w3.org/2000/09/xmldsig#">
+  <ns2:Contenido>
+    <ns2:Folio>
+<ns2:Numero>R-01-DASU-49812-2020</ns2:Numero>
+<ns2:Agno>2020</ns2:Agno>
+</ns2:Folio>
+    <ext:ResolucionSUSESO id="ResolucionSUSESO">
+      <ext:Resolucion Id="FirmaResolucionDefault">
+        <ns2:FolioExpediente>R-26872-2020</ns2:FolioExpediente>
+        <ns2:CtlPrevLeg>EXENTA</ns2:CtlPrevLeg>
+        <ns2:NivelConfid>PUBLICO</ns2:NivelConfid>
+        <ns2:Materia/>
+        <ns2:Lugar>Santiago</ns2:Lugar>
+        <ns2:Fecha>2020-06-02-04:00</ns2:Fecha>
+        <ns2:A>Director(a) &lt;br/&gt;INSTITUTO DE PREVISIÓN SOCIAL</ns2:A>
+        <ns2:TipoOficio>SACO</ns2:TipoOficio>
+        <ns2:Ord/>
+        <ns2:Ant>Presentación de  doña Pamela Lourdes Inalef Alvarado, de 23/03/2020.&lt;br/&gt;</ns2:Ant>
+        <ns2:Mat>Remite presentación y antecedentes por corresponder su conocimiento y resolución. Situación de  doña Pamela Lourdes Inalef Alvarado, RUN 16.812.748-0.&lt;br/&gt;</ns2:Mat>
+        <ns2:Ftes>Leyes N°s. 16.395 y 18.020. &lt;br/&gt;</ns2:Ftes>
+        <ns2:Conc>&lt;br/&gt;</ns2:Conc>
+        <ns2:Separador>
+          <ns2:Parrafo>Se remite a esa Entidad la presentación  y antecedentes de doña Pamela Lourdes Inalef Alvarado, RUN 16.812.748-0, ello por cuanto su contenido está referido a una materia de competencia de ese Organismo, relacionada con su disconformidad con el monto que actualmente percibe por el Beneficio Social &amp;quot;Subsidio Familiar (SUF)&amp;quot;.</ns2:Parrafo>
+          <ns2:Parrafo/>
+          <ns2:Parrafo>Finalmente, se hace presente que esta Superintendencia podrá revisar la situación de la interesada, una vez que ese Instituto, emita el correspondiente pronunciamiento, en caso de que este sea desfavorable respecto de su pretensión.</ns2:Parrafo>
+          <ns2:Parrafo/>
+          <ns2:Parrafo>Saluda atentamente a Ud.,  </ns2:Parrafo>
+          <ns2:Parrafo/>
+          <ns2:Parrafo/>
+        </ns2:Separador>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116">
+<XPath>/*[local-name()='Documento' and namespace-uri()='http://www.contraloria.cl/2005/05/CGRDoc']/*[local-name()='Contenido' and namespace-uri()='http://www.contraloria.cl/2005/05/CGRDoc']/*[local-name()='ResolucionSUSESO' and namespace-uri()='http://www.suseso.cl/CGRDoc']/*[local-name()='Resolucion' and namespace-uri()='http://www.suseso.cl/CGRDoc']</XPath>
+</Transform>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>nDSEBAjA72IrJiobIL0Bo0jFRl8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>WRGTsDEhxpEEVD68Y30R7xjpVAi/P2PEjmVTael7KpWeXuqXfcuKAr0cPLZz9d0CJh5HTnzUuF9j&#13;
+cRmS/bVpH96E3hcyxNpiss8IwwfFH+6YeRcOByGzq4fYw1OpvuM0vuRKUHxk6je4UjXtsL6UmX58&#13;
+O6rFBy8nUK1JknaRDsGicvlCiGC9tZiz6nNu86OaKa0uxyc6FvW7X29l16N5ugDEPk+So6E2Wx6B&#13;
+tLKDvpEVTSXzXnpxqibBR6ktgtdg6Jggf0ZkKxBY9tgzg4L5arpvBVO/e2QAyU3lCJIk1Pdq8QIi&#13;
+ykPSAYd9NtubEwO2OmbXpoZwC6KZThYtEH9TEg==</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>MIIHajCCBlKgAwIBAgIIWJHOc1PTWAIwDQYJKoZIhvcNAQELBQAwgbkxCzAJBgNVBAYTAkNMMRQw&#13;
+EgYDVQQKDAtFLVNpZ24gUy5BLjE5MDcGA1UECwwwVGVybXMgb2YgdXNlIGF0IHd3dy5lc2lnbi1s&#13;
+YS5jb20vYWN1ZXJkb3RlcmNlcm9zMTUwMwYDVQQDDCxFLVNpZ24gQ2xhc3MgMyBGaXJtYSBFbGVj&#13;
+dHJvbmljYSBBdmFuemFkYSBDQTEiMCAGCSqGSIb3DQEJARYTZS1zaWduQGVzaWduLWxhLmNvbTAe&#13;
+Fw0xOTExMjYxNTQ2NTVaFw0yMDExMjUxNTQzMDBaMIGuMQswCQYDVQQGEwJDTDEUMBIGA1UECgwL&#13;
+RS1TaWduIFMuQS4xOTA3BgNVBAsMMFRlcm1zIG9mIHVzZSBhdCB3d3cuZXNpZ24tbGEuY29tL2Fj&#13;
+dWVyZG90ZXJjZXJvczErMCkGA1UEAwwiTWFyY29zIEdhYnJpZWwgIExhcmVuYXMgU2Vww7psdmVk&#13;
+YTEhMB8GCSqGSIb3DQEJARYSbWxhcmVuYXNAc3VzZXNvLmNsMIIBIjANBgkqhkiG9w0BAQEFAAOC&#13;
+AQ8AMIIBCgKCAQEAiqILI5ToZ0XsKrX5ECGljkUF+DtSMqgRs8+M2AYL0/NA5YKjbb6nTotlf13W&#13;
+nOnglU0ABnM4y/pSS3EzoNCseLWYeWeMka3qNHFQKm2Weqgk+ZWT4Fkk8WP4yj7rPSS3GMOCpx7f&#13;
+oZn8+CtG1mDOdUVNhRhb7Bcd4aJ0ZgaMNNp3VD/CLeX0kZHBcT3Iek8Kge9UtMCAUNPUzppISwQX&#13;
+9aq2xw1g787p6D49RpPTlecwlbUuFGcfg2fVNQV5Z1vz4Nu80dN0xXao0QCj7dYu8X/9ThJW8sTQ&#13;
+rEbgSx9w1Owm6N1hihQ/aIeJjR6klqpdrJ2BhDGSWLC1BWxWP12AqQIDAQABo4IDfTCCA3kwgYkG&#13;
+CCsGAQUFBwEBBH0wezBTBggrBgEFBQcwAoZHaHR0cDovL3BraS5lc2lnbi1sYS5jb20vY2FjZXJ0&#13;
+cy9wa2lDbGFzczNGaXJtYUVsZWN0cm9uaWNhQXZhbnphZGFDQS5jcnQwJAYIKwYBBQUHMAGGGGh0&#13;
+dHA6Ly9vY3NwLmVzaWduLWxhLmNvbTAdBgNVHQ4EFgQUUqyMeWEh0y0DcUgWP4VoYHG7PwMwDAYD&#13;
+VR0TAQH/BAIwADAfBgNVHSMEGDAWgBTAitoqZVD04xiW2kWEV75HgXSCdDCCAcYGA1UdIASCAb0w&#13;
+ggG5MIIBtQYMKwYBBAGCymoBBAEDMIIBozCCAXYGCCsGAQUFBwICMIIBaB6CAWQAQwBlAHIAdABp&#13;
+AGYAaQBjAGEAZABvACAAcABhAHIAYQAgAGYAaQByAG0AYQAgAGUAbABlAGMAdAByAG8AbgBpAGMA&#13;
+YQAgAGEAdgBhAG4AegBhAGQAYQAuACAAUABTAEMAIABhAGMAcgBlAGQAaQB0AGEAZABvACAAcABv&#13;
+AHIAIABSAGUAcwBvAGwAdQBjAGkAbwBuACAARQB4AGUAbgB0AGEAIABkAGUAIABsAGEAIABTAHUA&#13;
+YgBzAGUAYwByAGUAdABhAHIAaQBhACAAZABlACAARQBjAG8AbgBvAG0AaQBhACAAZABpAHMAcABv&#13;
+AG4AaQBiAGwAZQAgAGUAbgAgAGgAdAB0AHAAcwA6AC8ALwB3AHcAdwAuAGUAcwBpAGcAbgAtAGwA&#13;
+YQAuAGMAbwBtAC8AcgBlAHAAbwBzAGkAdABvAHIAaQBvAC8AYQBjAHIAZQBkAGkAdABhAGMAaQBv&#13;
+AG4ALzAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5lc2lnbi1sYS5jb20vY3BzMFoGA1UdHwRTMFEw&#13;
+T6BNoEuGSWh0dHA6Ly9wa2kuZXNpZ24tbGEuY29tL2NybC9wa2lDbGFzczNGaXJtYUVsZWN0cm9u&#13;
+aWNhQXZhbnphZGEvZW5kdXNlci5jcmwwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF&#13;
+BwMCBggrBgEFBQcDBDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjEwMDMzNDU1LTAwIwYDVR0S&#13;
+BBwwGqAYBggrBgEEAcEBAqAMFgo5OTU1MTc0MC1LMA0GCSqGSIb3DQEBCwUAA4IBAQCYWBCxf4E2&#13;
+nZ/OoZOfgoBPKQuFIxvuzCQZYVByiF7o3gckrcWsXTnv/o4LBeQZqKKJ1e34QydaBtdMxASv9IeO&#13;
+7nN6AeCreeVF5prMF+eC2kKslBgNvdW47F/bf5h+lGCxfuPlfU44Rx60ML67+/s3gwAsnDi6+7/q&#13;
+zUphvOzbYso52NRv01sxG0hx8+pP98zsMjYX/loz1cjFmBlyM3Ftf8LwjwylKCw7HoHO3yCN9tV3&#13;
+TdIa0a9IoRr0Z5UDVu6b9ubusmzIxrZm06Wmqm2y11noZpG3cbl3ONcFziqNtUnfz/RzYwbyrs1i&#13;
+bauh9SwPiKCzHTMfcCbOgP3NrfQ6</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</ext:Resolucion>
+      <ext:Visaciones>
+        <ext:Profesional>
+          <ext:Area>Unidad de Análisis de Admisibilidad</ext:Area>
+          <ext:Departamento>Departamento de Asistencia y Servicios al Usuario</ext:Departamento>
+          <ext:Fecha>2020-06-02T13:51:42.335-04:00</ext:Fecha>
+        </ext:Profesional>
+        <ext:Visadores>
+          <ext:Visador>
+            <ext:Nombre>JORGE HERNÁN CAROCA LARENAS</ext:Nombre>
+            <ext:Sigla>JCL</ext:Sigla>
+            <ext:Rut>16123650-0</ext:Rut>
+            <ext:Cargo>ANALISTA</ext:Cargo>
+            <ext:Unidad>Departamento de Licencias Médicas</ext:Unidad>
+            <ext:Fecha>2020-06-02 14:04:10</ext:Fecha>
+            <ext:EsMinistro>false</ext:EsMinistro>
+          </ext:Visador>
+          <ext:Visador>
+            <ext:Nombre>ALEX ANDRÉS SALGADO AGUILERA</ext:Nombre>
+            <ext:Sigla>ASA</ext:Sigla>
+            <ext:Rut>13115666-9</ext:Rut>
+            <ext:Cargo>JEFE DE UNIDAD</ext:Cargo>
+            <ext:Unidad>Unidad de Fiscalización del Contencioso</ext:Unidad>
+            <ext:Fecha>2020-06-02 22:53:56</ext:Fecha>
+            <ext:EsMinistro>false</ext:EsMinistro>
+          </ext:Visador>
+        </ext:Visadores>
+      <ext:Firmante>
+<ext:Nombre>MARCOS GABRIEL LARENAS SEPULVEDA</ext:Nombre>
+<ext:Sigla>MLS</ext:Sigla>
+<ext:Rut>10033455-0</ext:Rut>
+<ext:Cargo>JEFE DE DEPARTAMENTO</ext:Cargo>
+<ext:Unidad>DEPARTAMENTO DE ASISTENCIA Y SERVICIOS AL USUARIO</ext:Unidad>
+<ext:Fecha>2020-06-02 22:54:45</ext:Fecha>
+<ext:EsSuperintendente>false</ext:EsSuperintendente>
+<ext:FolioExpediente>R-26872-2020</ext:FolioExpediente>
+<ext:CodigoFirma>92ac0457-abd0-4353-131218</ext:CodigoFirma>
+<ext:UrlQr>http://pae.suseso.cl/pae-web/qr/generaQR?codigo=</ext:UrlQr>
+</ext:Firmante>
+</ext:Visaciones>
+      <ext:Destinatarios>
+        <ext:Destinatario>
+          <ext:Nombre>PAMELA LOURDES INALEF ALVARADO</ext:Nombre>
+          <ext:Email>tierralavista@gmail.com</ext:Email>
+          <ext:Principal>false</ext:Principal>
+        </ext:Destinatario>
+        <ext:Destinatario>
+          <ext:Nombre>INSTITUTO DE PREVISIÓN SOCIAL</ext:Nombre>
+          <ext:Email>secretaria.general@ips.gob.cl</ext:Email>
+          <ext:Principal>true</ext:Principal>
+        </ext:Destinatario>
+      </ext:Destinatarios>
+      <ext:CodigoPlantilla>A15</ext:CodigoPlantilla>
+    </ext:ResolucionSUSESO>
+  </ns2:Contenido>
+</ns2:Documento>
